@@ -118,13 +118,7 @@ function App() {
             </div>
           </div>
         </div>
-
-
-
       </main>
-
-
-
     </body >
 
 
